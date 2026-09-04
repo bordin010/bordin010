@@ -1,16 +1,113 @@
-## Hi there 👋
+\# 👋 Olá! Eu sou \[Enzo Dominone Bordin]
 
-<!--
-**bordin010/bordin010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou estudante de \*\*Desenvolvimento de Sistemas\*\* e estou aprendendo sobre \*\*GitHub\*\*, \*\*programação\*\* e \*\*criação de projetos web e mobile\*\*. Tenho interesse especial em \[principalmente Back-End, Banco de Dados, além disso, gostaria de me especializar em CyberSegurança].
+
+
+
+\---
+
+
+
+\## 🎯 Tecnologias que estou aprendendo
+
+
+
+\### Front-End
+
+!\[HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
+
+!\[CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square\&logo=css3)
+
+!\[JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+
+!\[React](https://img.shields.io/badge/-React-61DAFB?style=flat-square\&logo=react\&logoColor=black)
+
+!\[Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square\&logo=bootstrap\&logoColor=white)
+
+
+
+\### Back-End
+
+!\[Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
+
+!\[Express](https://img.shields.io/badge/-Express-000000?style=flat-square\&logo=express\&logoColor=white)
+
+!\[Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+
+!\[Django](https://img.shields.io/badge/-Django-092E20?style=flat-square\&logo=django\&logoColor=white)
+
+!\[MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+
+
+
+\### Mobile
+
+!\[Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square\&logo=flutter\&logoColor=white)
+
+!\[React Native](https://img.shields.io/badge/-React\_Native-61DAFB?style=flat-square\&logo=react\&logoColor=black)
+
+!\[Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square\&logo=kotlin\&logoColor=white)
+
+!\[Java](https://img.shields.io/badge/-Java-007396?style=flat-square\&logo=java\&logoColor=white)
+
+
+
+\---
+
+
+
+\## 🚀 Meus Projetos
+
+
+
+| Projeto               | Preview Online                        | Tecnologias Usadas        |
+
+|-----------------------|-------------------------------------|--------------------------|
+
+| \*\*Tabela do Brasileirão\*\* | \[🔗 Ver online](https://github.com/bordin010/Tabela_Brasileirao.git) | HTML / IMG |
+
+| \*\*Séries Favoritas\*\* | \[🔗 Ver online](https://github.com/bordin010/atividade_series_html.git) | HTML |
+
+| \*\*Meu Tema Favorito\*\* | \[🔗 Ver online](https://github.com/bordin010/atvd_meu_tema_favorito.git) | HTML / CSS / IMG |
+
+
+
+
+
+
+
+\---
+
+
+
+\## 💡 Sobre Mim
+
+
+
+\- 🎓 Atualmente estudo no \*\*\[Sesi Hagop Guerekmezian]\*\*
+
+\- 💻 Estou aprendendo \*\*\[HTML, CSS, BACK-END, FRONT-END, SQL, BANCO DE DADOS ENTRE OUTROS.]\*\*
+
+\- 🎯 Meu objetivo é \*\*\[Me tornar um bom programador e experiente.]\*\*
+
+\- 📚 Gosto de aprender sobre \*\*\[CyberSegurança]\*\*
+
+\- ✝ \[João 16:33]
+
+
+
+\---
+
+
+
+\## 📫 Como me encontrar
+
+
+
+\[!\[LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/enzo-bordin)  
+
+\[!\[Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square\&logo=instagram\&logoColor=white)](https://instagram.com/ebordin._)  
+
+\[!\[GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/bordin010)
