@@ -1,113 +1,161 @@
-\# 👋 Olá! Eu sou \[Enzo Dominone Bordin]
+<h1 align="center">👋 Olá! Eu sou Enzo Dominone Bordin</h1>
 
+<p align="center">
+  <strong>🎓 Estudante de Desenvolvimento de Sistemas | 💻 Desenvolvedor em formação</strong>
+</p>
 
+<p align="center">
+  <a href="https://github.com/bordin010">
+    <img src="https://img.shields.io/badge/GitHub-bordin010-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-Sou estudante de \*\*Desenvolvimento de Sistemas\*\* e estou aprendendo sobre \*\*GitHub\*\*, \*\*programação\*\* e \*\*criação de projetos web e mobile\*\*. Tenho interesse especial em \[principalmente Back-End, Banco de Dados, além disso, gostaria de me especializar em CyberSegurança].
+---
 
+## 🧑‍💻 Sobre mim
 
+Olá! Meu nome é **Enzo Dominone Bordin**.
 
-\---
+🎓 Sou estudante do **SESI Guarulhos** e atualmente curso **Técnico em Desenvolvimento de Sistemas no SENAI Hermenegildo Campos de Almeida**.
 
+💻 Tenho interesse em desenvolvimento de software e venho construindo minha base em **Front-end, Back-end, bancos de dados e programação** através de estudos e projetos práticos.
 
+🚀 Meu objetivo é continuar evoluindo como desenvolvedor, aprender novas tecnologias e transformar meus conhecimentos em projetos cada vez mais completos.
 
-\## 🎯 Tecnologias que estou aprendendo
+---
 
+## 🛠️ Tecnologias & Conhecimentos
 
+### 💻 Programação
 
-\### Front-End
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+</p>
 
-!\[HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
+### 🌐 Web
 
-!\[CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square\&logo=css3)
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
 
-!\[JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+### 🗄️ Banco de Dados
 
-!\[React](https://img.shields.io/badge/-React-61DAFB?style=flat-square\&logo=react\&logoColor=black)
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
-!\[Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square\&logo=bootstrap\&logoColor=white)
+### 🔧 Ferramentas & Outros
 
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Virtual%20Machines-607D8B?style=for-the-badge&logo=virtualbox&logoColor=white"/>
+</p>
 
+---
 
-\### Back-End
+## 🚀 Projetos em destaque
 
-!\[Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
+### 🏆 Tabela Brasileirão
 
-!\[Express](https://img.shields.io/badge/-Express-000000?style=flat-square\&logo=express\&logoColor=white)
+Projeto desenvolvido para trabalhar com **HTML e CSS**, apresentando uma tabela relacionada ao Campeonato Brasileiro.
 
-!\[Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+🔗 **[Ver projeto no GitHub](https://github.com/bordin010/Tabela_Brasileirao)**
 
-!\[Django](https://img.shields.io/badge/-Django-092E20?style=flat-square\&logo=django\&logoColor=white)
+🌐 **[Ver projeto online](https://bordin010.github.io/Tabela_Brasileirao/)**
 
-!\[MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+---
 
+### 📺 Atividade — Séries
 
+Projeto desenvolvido durante os estudos de **HTML**, trabalhando a criação e estruturação de uma página web.
 
-\### Mobile
+🔗 **[Ver projeto no GitHub](https://github.com/bordin010/atividade_series_html)**
 
-!\[Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square\&logo=flutter\&logoColor=white)
+---
 
-!\[React Native](https://img.shields.io/badge/-React\_Native-61DAFB?style=flat-square\&logo=react\&logoColor=black)
+### ⭐ Meu Tema Favorito
 
-!\[Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square\&logo=kotlin\&logoColor=white)
+Projeto desenvolvido utilizando **HTML e CSS**, com foco na criação e estilização de uma página web.
 
-!\[Java](https://img.shields.io/badge/-Java-007396?style=flat-square\&logo=java\&logoColor=white)
+🔗 **[Ver projeto no GitHub](https://github.com/bordin010/atvd_meu_tema_favorito)**
 
+---
 
+## 📚 O que estou estudando
 
-\---
+Atualmente, estou focado em fortalecer meus conhecimentos em:
 
+* 🐍 Python
+* ☕ Java
+* 🌐 HTML & CSS
+* ⚙️ Desenvolvimento Back-end
+* 🎨 Desenvolvimento Front-end
+* 🗄️ MySQL e bancos de dados
+* 🖥️ Máquinas virtuais
+* 🔀 Git e GitHub
+* 🧠 Lógica de programação
 
-
-\## 🚀 Meus Projetos
-
-
-
-| Projeto               | Preview Online                        | Tecnologias Usadas        |
-
-|-----------------------|-------------------------------------|--------------------------|
-
-| \*\*Tabela do Brasileirão\*\* | \[🔗 Ver online](https://github.com/bordin010/Tabela_Brasileirao.git) | HTML / IMG |
-
-| \*\*Séries Favoritas\*\* | \[🔗 Ver online](https://github.com/bordin010/atividade_series_html.git) | HTML |
-
-| \*\*Meu Tema Favorito\*\* | \[🔗 Ver online](https://github.com/bordin010/atvd_meu_tema_favorito.git) | HTML / CSS / IMG |
-
-
-
-
-
-
-
-\---
-
-
-
-\## 💡 Sobre Mim
-
-
-
-\- 🎓 Atualmente estudo no \*\*\[Sesi Hagop Guerekmezian]\*\*
-
-\- 💻 Estou aprendendo \*\*\[HTML, CSS, BACK-END, FRONT-END, SQL, BANCO DE DADOS ENTRE OUTROS.]\*\*
-
-\- 🎯 Meu objetivo é \*\*\[Me tornar um bom programador e experiente.]\*\*
-
-\- 📚 Gosto de aprender sobre \*\*\[CyberSegurança]\*\*
-
-\- ✝ \[João 16:33]
-
-
-
-\---
-
-
-
-\## 📫 Como me encontrar
-
-
-
-\[!\[LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/enzo-bordin)  
-
-\[!\[Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square\&logo=instagram\&logoColor=white)](https://instagram.com/ebordin._)  
-
-\[!\[GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/bordin010)
+---
+
+## 🎯 Meus objetivos
+
+* 🚀 Evoluir constantemente como desenvolvedor
+* 💻 Criar projetos cada vez mais completos
+* 🧠 Fortalecer minha lógica de programação
+* 🌐 Aprofundar meus conhecimentos em desenvolvimento Web
+* ⚙️ Evoluir em Back-end
+* 🗄️ Aprender mais sobre bancos de dados
+* 🤝 Adquirir experiência trabalhando em projetos
+* 💼 Construir minha carreira na área de tecnologia
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=bordin010&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bordin010&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" />
+</p>
+
+---
+
+## 📈 Minha jornada
+
+```text
+🎓 SESI Guarulhos
+        │
+        ▼
+💻 Técnico em Desenvolvimento de Sistemas
+        │
+        ▼
+📚 Aprendizado + Projetos
+        │
+        ▼
+🚀 Evolução constante
+        │
+        ▼
+💼 Futuro Desenvolvedor
+```
+
+---
+
+## 📫 Vamos nos conectar?
+
+<p align="center">
+  <a href="https://github.com/bordin010">
+    <img src="https://img.shields.io/badge/GitHub-bordin010-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  💻 <strong>Estudando. Criando. Evoluindo.</strong>
+</p>
+
+<p align="center">
+  ⭐ Obrigado por visitar meu perfil!
+</p>
