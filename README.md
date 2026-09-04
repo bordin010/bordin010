@@ -8,6 +8,12 @@
   <a href="https://github.com/bordin010">
     <img src="https://img.shields.io/badge/GitHub-bordin010-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  <a href="https://www.linkedin.com/in/enzo-bordin">
+    <img src="https://img.shields.io/badge/LinkedIn-Enzo%20Bordin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/ebordin._">
+    <img src="https://img.shields.io/badge/Instagram-@ebordin._-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -18,9 +24,9 @@ Olá! Meu nome é **Enzo Dominone Bordin**.
 
 🎓 Sou estudante do **SESI Guarulhos** e atualmente curso **Técnico em Desenvolvimento de Sistemas no SENAI Hermenegildo Campos de Almeida**.
 
-💻 Tenho interesse em desenvolvimento de software e venho construindo minha base em **Front-end, Back-end, bancos de dados e programação** através de estudos e projetos práticos.
+💻 Tenho interesse em **desenvolvimento de software**, explorando áreas como **Front-end, Back-end, programação e bancos de dados**.
 
-🚀 Meu objetivo é continuar evoluindo como desenvolvedor, aprender novas tecnologias e transformar meus conhecimentos em projetos cada vez mais completos.
+🚀 Venho construindo minha experiência através de estudos, atividades acadêmicas e projetos práticos, buscando transformar cada projeto em uma oportunidade para aprender e evoluir.
 
 ---
 
@@ -33,7 +39,7 @@ Olá! Meu nome é **Enzo Dominone Bordin**.
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </p>
 
-### 🌐 Web
+### 🌐 Desenvolvimento Web
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -60,33 +66,33 @@ Olá! Meu nome é **Enzo Dominone Bordin**.
 
 ### 🏆 Tabela Brasileirão
 
-Projeto desenvolvido para trabalhar com **HTML e CSS**, apresentando uma tabela relacionada ao Campeonato Brasileiro.
+Projeto desenvolvido durante meus estudos de desenvolvimento web, utilizando **HTML e CSS** para criar uma tabela relacionada ao Campeonato Brasileiro.
 
-🔗 **[Ver projeto no GitHub](https://github.com/bordin010/Tabela_Brasileirao)**
+🔗 [**Ver projeto no GitHub →**](https://github.com/bordin010/Tabela_Brasileirao)
 
-🌐 **[Ver projeto online](https://bordin010.github.io/Tabela_Brasileirao/)**
+🌐 [**Ver projeto online →**](https://bordin010.github.io/Tabela_Brasileirao/)
 
 ---
 
 ### 📺 Atividade — Séries
 
-Projeto desenvolvido durante os estudos de **HTML**, trabalhando a criação e estruturação de uma página web.
+Projeto acadêmico desenvolvido utilizando **HTML**, com foco na estruturação e organização de uma página web.
 
-🔗 **[Ver projeto no GitHub](https://github.com/bordin010/atividade_series_html)**
+🔗 [**Ver projeto no GitHub →**](https://github.com/bordin010/atividade_series_html)
 
 ---
 
 ### ⭐ Meu Tema Favorito
 
-Projeto desenvolvido utilizando **HTML e CSS**, com foco na criação e estilização de uma página web.
+Projeto desenvolvido durante os estudos de desenvolvimento web, utilizando **HTML e CSS** para criar e estilizar uma página sobre um tema escolhido.
 
-🔗 **[Ver projeto no GitHub](https://github.com/bordin010/atvd_meu_tema_favorito)**
+🔗 [**Ver projeto no GitHub →**](https://github.com/bordin010/atvd_meu_tema_favorito)
 
 ---
 
-## 📚 O que estou estudando
+## 📚 Atualmente estudando
 
-Atualmente, estou focado em fortalecer meus conhecimentos em:
+Estou focado em desenvolver e fortalecer meus conhecimentos em:
 
 * 🐍 Python
 * ☕ Java
@@ -100,20 +106,20 @@ Atualmente, estou focado em fortalecer meus conhecimentos em:
 
 ---
 
-## 🎯 Meus objetivos
+## 🎯 Objetivos
 
 * 🚀 Evoluir constantemente como desenvolvedor
 * 💻 Criar projetos cada vez mais completos
 * 🧠 Fortalecer minha lógica de programação
 * 🌐 Aprofundar meus conhecimentos em desenvolvimento Web
-* ⚙️ Evoluir em Back-end
+* ⚙️ Evoluir meus conhecimentos em Back-end
 * 🗄️ Aprender mais sobre bancos de dados
-* 🤝 Adquirir experiência trabalhando em projetos
-* 💼 Construir minha carreira na área de tecnologia
+* 🤝 Participar de projetos e experiências na área
+* 💼 Construir minha carreira no setor de tecnologia
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=bordin010&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" />
@@ -124,21 +130,19 @@ Atualmente, estou focado em fortalecer meus conhecimentos em:
 
 ## 📈 Minha jornada
 
-```text
-🎓 SESI Guarulhos
-        │
-        ▼
-💻 Técnico em Desenvolvimento de Sistemas
-        │
-        ▼
-📚 Aprendizado + Projetos
-        │
-        ▼
-🚀 Evolução constante
-        │
-        ▼
-💼 Futuro Desenvolvedor
-```
+<p align="center">
+
+🎓 <strong>SESI Guarulhos</strong> <br>
+⬇️ <br>
+💻 <strong>Técnico em Desenvolvimento de Sistemas</strong> <br>
+⬇️ <br>
+📚 <strong>Estudos + Projetos Práticos</strong> <br>
+⬇️ <br>
+🚀 <strong>Evolução constante</strong> <br>
+⬇️ <br>
+💼 <strong>Futuro Desenvolvedor</strong>
+
+</p>
 
 ---
 
@@ -147,6 +151,12 @@ Atualmente, estou focado em fortalecer meus conhecimentos em:
 <p align="center">
   <a href="https://github.com/bordin010">
     <img src="https://img.shields.io/badge/GitHub-bordin010-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/enzo-bordin">
+    <img src="https://img.shields.io/badge/LinkedIn-Enzo%20Bordin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/ebordin._">
+    <img src="https://img.shields.io/badge/Instagram-@ebordin._-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
@@ -158,4 +168,23 @@ Atualmente, estou focado em fortalecer meus conhecimentos em:
 
 <p align="center">
   ⭐ Obrigado por visitar meu perfil!
+</p>
+
+## 🐍 Minha atividade no GitHub
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/bordin010/bordin010/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/bordin010/bordin010/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/bordin010/bordin010/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
 </p>
